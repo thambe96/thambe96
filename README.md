@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Oshadha Thambavita
+## Oshadha Thambavita
 
 Full Stack Developer focused on building scalable backend systems and modern web applications.
 
@@ -78,8 +78,9 @@ Explore my repositories for work on:
 - Mobile applications  
 
 ---
-
+<!--
 ## Contact
 - GitHub: https://github.com/YOUR_USERNAME  
 - LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: YOUR_EMAIL  
+- Email: YOUR_EMAIL 
+-->
